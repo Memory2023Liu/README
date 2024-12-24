@@ -2,8 +2,13 @@ name: Update Weekly Development Time
 
 on:
   schedule:
-    - cron: '0 0 * * MON'  # Runs every Monday at 00:00 UTC
+    - cron: '*/1 * * * *'  # Runs every minute
   workflow_dispatch:  # Allows manual triggering
+
+# on:
+#   schedule:
+#     - cron: '0 0 * * MON'  # Runs every Monday at 00:00 UTC
+#   workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-dev-time:
