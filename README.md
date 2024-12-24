@@ -13,7 +13,7 @@ I specialize in:
 - Battery materials
 - Battery safety
 
-> Note: This is my readme inspired by Yuxing Fei's readme https://github.com/idocx/idocx
+> Note: This is my readme inspired by [waka_Readme](https://github.com/marketplace/actions/waka-readme)
 
 ---
 
