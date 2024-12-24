@@ -23,9 +23,10 @@ I specialize in:
 ```txt
 From: 23 December 2024 - To: 30 December 2024
 
-Python       6 hrs 37 mins   ███████████████████████░░   92.59 %
-Other        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python       N/A  
+LaTeX        N/A
+Other        N/A      
+Text         N/A      
 ```
 
 <!--END_SECTION:waka-->
