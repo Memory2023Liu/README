@@ -18,7 +18,7 @@ I specialize in:
 
 ---
 
-### 📊 Weekly development time
+### Development time
 <!--START_SECTION:waka-->
 
 ```rust
