@@ -22,7 +22,7 @@ I specialize in:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 December 2024 - To: 19 February 2025
+From: 24 December 2024 - To: 20 February 2025
 
 Total Time: 225 hrs 12 mins
 
