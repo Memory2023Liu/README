@@ -22,15 +22,15 @@ I specialize in:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 December 2024 - To: 19 August 2025
+From: 24 December 2024 - To: 20 August 2025
 
-Total Time: 1,246 hrs 2 mins
+Total Time: 1,253 hrs 5 mins
 
-TeX                658 hrs 6 mins  >>>>>>>>>>>>>------------   52.81 %
-Python             539 hrs 36 mins >>>>>>>>>>>--------------   43.30 %
-BibTeX             32 hrs 51 mins  >------------------------   02.64 %
-Markdown           10 hrs 47 mins  -------------------------   00.87 %
-OpenEdge ABL       3 hrs 23 mins   -------------------------   00.27 %
+TeX                660 hrs 51 mins >>>>>>>>>>>>>------------   52.74 %
+Python             542 hrs 52 mins >>>>>>>>>>>--------------   43.32 %
+BibTeX             33 hrs 39 mins  >------------------------   02.69 %
+Markdown           10 hrs 47 mins  -------------------------   00.86 %
+OpenEdge ABL       3 hrs 37 mins   -------------------------   00.29 %
 Text               8 mins          -------------------------   00.01 %
 Bash               5 mins          -------------------------   00.01 %
 reStructuredText   2 mins          -------------------------   00.00 %
