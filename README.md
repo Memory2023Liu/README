@@ -6,7 +6,7 @@
 
 > "I am smart enough to know that I am dumb" - Richard Feynman 
 
-My focus is on developing compositionally complex materials leveraging automation and machine learning technologies.
+My work focuses on developing compositionally complex materials leveraging automation and machine learning technologies.
 
 I specialize in:
 - Lab automation
